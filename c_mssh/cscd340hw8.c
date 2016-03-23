@@ -1,5 +1,5 @@
 
-/** 
+/** edit
  *  @filename cscd340hw8.c
  *  @progname mssh
  *  @author Blake Impecoven
